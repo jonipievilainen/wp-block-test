@@ -1,0 +1,35 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "5e777e1f6d4e6cc83bfe8fe0c8c56481",
+    "packages": [
+        {
+            "name": "jeremyHixon/RationalOptionPages",
+            "version": "master",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/jeremyHixon/RationalOptionPages/archive/master.zip",
+                "reference": "master"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "."
+                ]
+            }
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "jeremyhixon/rationaloptionpages": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

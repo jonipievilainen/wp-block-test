@@ -1,0 +1,23 @@
+{
+    "name": "pfu/pfu",
+    "require": {
+        "jeremyHixon/RationalOptionPages": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "jeremyHixon/RationalOptionPages",
+                "version": "master",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jeremyHixon/RationalOptionPages/archive/master.zip",
+                    "reference": "master"
+                },
+                "autoload": {
+                    "classmap": ["."]
+                }
+            }
+        }
+    ]
+}
